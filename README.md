@@ -8,3 +8,4 @@ dev-tool-list
 工具地址 | 描述说明
 
 [ios-dev-playbook](https://github.com/lexrus/ios-dev-playbook) | 快速配置安装 GitLab、Countly、Jenkins.
+[lldb](http://www.cimgf.com/2012/12/13/xcode-lldb-tutorial) | lldb tutorial.
