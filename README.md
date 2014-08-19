@@ -11,4 +11,6 @@ dev-tool-list
 [lldb tutorial](http://www.cimgf.com/2012/12/13/xcode-lldb-tutorial) | lldb tutorial.
 [Core-Data-Editor](https://github.com/ChristianKienle/Core-Data-Editor) | Core-Data-Editor.
 [MaHua](http://mahua.jser.me/) | Markdown在线编辑器.
+[NSLogger](https://github.com/fpillet/NSLogger) | NSLogger.
+
 
